@@ -1,5 +1,6 @@
 # Test Svelte
 
+
 ## Úkoly
 
 - v **+page.svelte** vytvoř tlačítko **+**
@@ -21,4 +22,13 @@
 
 CSS není potřeba upravovat
 
+[Klikni sem pro gif s ukázkou požadované funkcionality](https://github.com/user-attachments/assets/1565f3db-c47b-4424-b75a-f807ea3555a8)
+
+
+![image](https://github.com/user-attachments/assets/929c7e2e-a8f5-4cf0-9df8-74ccf7cae55e)
+
+
+
 Nápověda pro syntax props: `let { ukazka } = $props()`
+
+### Počet bodu: ?/100
